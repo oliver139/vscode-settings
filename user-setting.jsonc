@@ -213,7 +213,6 @@
   // #endregion
 
   // #region : Terminal ===============
-	"terminal.external.osxExec": "iTerm.app",
 	"terminal.integrated.enableMultiLinePasteWarning": "never",
 	"terminal.integrated.fontFamily": "FiraCode Nerd Font",
 	"terminal.integrated.fontWeight": "450",
