@@ -13,8 +13,6 @@
 	"workbench.productIconTheme": "icons-carbon",
   "workbench.tree.indent": 10,
 
-  "editor.guides.bracketPairs": true,
-  "explorer.sortOrder": "type",
 	"editor.tokenColorCustomizations": {
 		"[Tokyo Night]": {
 			"textMateRules": [
@@ -210,13 +208,6 @@
   //   }
   // },
   
-  // #endregion
-
-  // #region : Terminal ===============
-	"terminal.integrated.enableMultiLinePasteWarning": "never",
-	"terminal.integrated.fontFamily": "FiraCode Nerd Font",
-	"terminal.integrated.fontWeight": "450",
-  "terminal.integrated.cursorBlinking": true,
   // #endregion
 
   // #region : Programming Languages ===============

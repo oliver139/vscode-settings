@@ -35,7 +35,13 @@
     "emmet.showExpandedAbbreviation",
     "editor.acceptSuggestionOnEnter",
     "editor.inlineSuggest.syntaxHighlightingEnabled",
-    "npm.packageManager"
+    "npm.packageManager",
+    "terminal.integrated.fontFamily",
+    "terminal.integrated.fontWeight",
+    "terminal.integrated.enableMultiLinePasteWarning",
+    "terminal.integrated.cursorBlinking",
+    "explorer.sortOrder",
+    "editor.guides.bracketPairs"
   ],
 
   "editor.fontFamily": "'FiraCode Nerd Font Mono', 'Fira Code', Menlo, Monaco, 'Courier New', monospace",
@@ -49,8 +55,8 @@
 	"terminal.external.osxExec": "iTerm.app",
 	"terminal.integrated.enableMultiLinePasteWarning": "never",
 	"terminal.integrated.fontFamily": "FiraCode Nerd Font",
-	"terminal.integrated.fontWeight": "450",
-  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.fontWeight": "450",
+  "terminal.integrated.cursorBlinking": false,
   // #endregion
 
   // #region : Programming Languages ===============
